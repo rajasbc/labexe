@@ -1,0 +1,18 @@
+[
+    {
+      "Username": "Admin",
+      "Password": "admin$123"
+    },
+    {
+      "Username": "NigSoftAdmin",
+      "Password": "nigsoft@123"
+    },
+    {
+      "Username": "Ganapathy",
+      "Password": "nigsoft@123"
+    },
+    {
+      "Username": "TestUser",
+      "Password": "admin!@123"
+    }
+ ]
